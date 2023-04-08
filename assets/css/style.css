@@ -919,6 +919,7 @@ h6 {
   font-style: italic;
   color: #152b79;
   margin-bottom: 0;
+  margin-left: 4rem;
 }
 
 /*--------------------------------------------------------------
@@ -1597,6 +1598,7 @@ h6 {
 
 #footer .footer-top .footer-contact {
   margin-bottom: 30px;
+  
 }
 
 #footer .footer-top .footer-contact p {
